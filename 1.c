@@ -3,9 +3,8 @@
 int main()
 {
 
-printf("hello word\n");
-printf("im ok\n");
-printf("我学会了提交注释\n");
+printf("我学会了分支管理\n");
 return 0;
+
 }
 
